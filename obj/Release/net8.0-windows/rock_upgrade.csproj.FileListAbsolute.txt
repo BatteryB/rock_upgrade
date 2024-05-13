@@ -1,0 +1,17 @@
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\bin\Release\net8.0-windows\rock_upgrade.exe
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\bin\Release\net8.0-windows\rock_upgrade.deps.json
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\bin\Release\net8.0-windows\rock_upgrade.runtimeconfig.json
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\bin\Release\net8.0-windows\rock_upgrade.dll
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\bin\Release\net8.0-windows\rock_upgrade.pdb
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade..resources
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\fishing.Form1.resources
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade.csproj.GenerateResource.cache
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade.AssemblyInfoInputs.cache
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade.AssemblyInfo.cs
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade.csproj.CoreCompileInputs.cache
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade.dll
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\refint\rock_upgrade.dll
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade.pdb
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade.genruntimeconfig.cache
+C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\ref\rock_upgrade.dll

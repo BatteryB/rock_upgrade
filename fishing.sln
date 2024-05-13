@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rock_upgrade", "rock_upgrade.csproj", "{104CB62B-E685-43CF-AFF8-A50E8A6F7D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104CB62B-E685-43CF-AFF8-A50E8A6F7D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104CB62B-E685-43CF-AFF8-A50E8A6F7D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104CB62B-E685-43CF-AFF8-A50E8A6F7D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104CB62B-E685-43CF-AFF8-A50E8A6F7D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E306E0E-C534-4A0D-98DB-3AFF9338EEA3}
+	EndGlobalSection
+EndGlobal
