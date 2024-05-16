@@ -37,12 +37,13 @@
             // label1
             // 
             label1.Font = new Font("궁서", 56F, FontStyle.Regular, GraphicsUnit.Point, 129);
-            label1.Location = new Point(250, 0);
+            label1.Location = new Point(200, 5);
             label1.Name = "label1";
-            label1.Size = new Size(500, 120);
+            label1.Size = new Size(590, 120);
             label1.TabIndex = 0;
             label1.Text = "돌 강화하기";
             label1.TextAlign = ContentAlignment.MiddleCenter;
+            label1.Click += label1_Click;
             // 
             // upgrade
             // 
@@ -58,9 +59,9 @@
             // rock
             // 
             rock.Font = new Font("궁서", 36F, FontStyle.Bold);
-            rock.Location = new Point(0, 100);
+            rock.Location = new Point(3, 125);
             rock.Name = "rock";
-            rock.Size = new Size(985, 300);
+            rock.Size = new Size(985, 267);
             rock.TabIndex = 2;
             rock.Text = "0강 일반 돌";
             rock.TextAlign = ContentAlignment.MiddleCenter;
@@ -78,9 +79,9 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 12F);
+            AutoScaleDimensions = new SizeF(8F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(984, 561);
+            ClientSize = new Size(1000, 561);
             Controls.Add(weight);
             Controls.Add(rock);
             Controls.Add(upgrade);

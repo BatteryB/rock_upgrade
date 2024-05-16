@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\batte\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\batte\\OneDrive\\바탕 화면\\작업\\C#\\돌_강화하기\\rock_upgrade.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\GItHub\\rock_upgrade\\rock_upgrade.csproj",
       "projectName": "rock_upgrade",
-      "projectPath": "C:\\Users\\batte\\OneDrive\\바탕 화면\\작업\\C#\\돌_강화하기\\rock_upgrade.csproj",
-      "packagesPath": "C:\\Users\\batte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\batte\\OneDrive\\바탕 화면\\작업\\C#\\돌_강화하기\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\GItHub\\rock_upgrade\\rock_upgrade.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\GItHub\\rock_upgrade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\batte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

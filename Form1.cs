@@ -65,11 +65,11 @@ namespace fishing
                 }
                 else
                 {
+                    MessageBox.Show("강화에 실패했습니다!");
                     upgradeIndex = 0;
                     defaultWeight = 98;
                     weight.Text = defaultWeight + "%";
                     rock.Text = upgradeIndex + "강 " + rockLevel[upgradeIndex];
-                    MessageBox.Show("강화에 실패했습니다!");
                 }
             }
             else
@@ -80,6 +80,11 @@ namespace fishing
         }
 
         private void weight_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

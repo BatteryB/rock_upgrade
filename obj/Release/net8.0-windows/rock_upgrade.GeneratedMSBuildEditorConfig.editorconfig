@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = rock_upgrade
-build_property.ProjectDir = C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\
+build_property.ProjectDir = C:\Users\user\Desktop\GItHub\rock_upgrade\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

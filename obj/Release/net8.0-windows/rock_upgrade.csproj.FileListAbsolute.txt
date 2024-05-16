@@ -15,3 +15,21 @@ C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net
 C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade.pdb
 C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\rock_upgrade.genruntimeconfig.cache
 C:\Users\batte\OneDrive\바탕 화면\작업\C#\돌_강화하기\obj\Release\net8.0-windows\ref\rock_upgrade.dll
+C:\Users\user\Desktop\GItHub\rock_upgrade\bin\Release\net8.0-windows\rock_upgrade.exe
+C:\Users\user\Desktop\GItHub\rock_upgrade\bin\Release\net8.0-windows\rock_upgrade.deps.json
+C:\Users\user\Desktop\GItHub\rock_upgrade\bin\Release\net8.0-windows\rock_upgrade.runtimeconfig.json
+C:\Users\user\Desktop\GItHub\rock_upgrade\bin\Release\net8.0-windows\rock_upgrade.dll
+C:\Users\user\Desktop\GItHub\rock_upgrade\bin\Release\net8.0-windows\rock_upgrade.pdb
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\rock_upgrade..resources
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\fishing.Form1.resources
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\rock_upgrade.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\rock_upgrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\rock_upgrade.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\rock_upgrade.AssemblyInfo.cs
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\rock_upgrade.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\rock_upgrade.sourcelink.json
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\rock_upgrade.dll
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\refint\rock_upgrade.dll
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\rock_upgrade.pdb
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\rock_upgrade.genruntimeconfig.cache
+C:\Users\user\Desktop\GItHub\rock_upgrade\obj\Release\net8.0-windows\ref\rock_upgrade.dll

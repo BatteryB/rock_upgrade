@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rock_upgrade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19f830b3101e9a5a6e7f4916aeeba04f3bf3895f")]
 [assembly: System.Reflection.AssemblyProductAttribute("rock_upgrade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rock_upgrade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
